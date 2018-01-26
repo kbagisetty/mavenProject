@@ -35,6 +35,7 @@ public class MavenDetails {
 		// TODO Auto-generated method stub
 		System.out.println("Learning integrating GitHub");
 		System.out.println("making changes");
+		System.out.println("making another change");
 		
 	}
 	
